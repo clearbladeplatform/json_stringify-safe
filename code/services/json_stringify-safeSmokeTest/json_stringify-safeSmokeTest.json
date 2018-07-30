@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,json_stringify-safe",
+    "logging_enabled": "false",
+    "name": "json_stringify-safeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "json_stringify-safeSmokeTest.js"
+}
